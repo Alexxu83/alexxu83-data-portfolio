@@ -14,7 +14,7 @@ customer segmentation, and predictive analysis.
 - SQL (basic querying)
 
 ## Featured Projects
-### 1. Retailer Churn Analysis & Retention Strategy (BCG RISE Capstone)
+### 1. Retailer Segmentation Using RFM Analysis (BCG RISE Capstone)
 Customer segmentation and churn risk analysis using machine learning to support
 data-driven retention strategies.
 
