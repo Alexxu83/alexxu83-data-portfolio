@@ -6,7 +6,7 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project uses retailer transactional data to engineer RFM (Recency, Frequency, Monetary) features and assign behavioral segments. The segmentation output is a common upstream component in analytics workflows such as:
 
@@ -20,7 +20,7 @@ This is a cleaned portfolio version of a larger group capstone project completed
 
 ---
 
-## 🧩 Methodology
+## Methodology
 
 The analytical pipeline includes:
 
@@ -34,4 +34,4 @@ The analytical pipeline includes:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
