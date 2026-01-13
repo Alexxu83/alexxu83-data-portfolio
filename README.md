@@ -36,4 +36,4 @@ Open to roles in data analytics, business intelligence, operations analytics, an
 
 ## Links
 
-LinkedIn: https://www.linkedin.com/in/alexxu83  
+LinkedIn: linkedin.com/in/alexxu83  
