@@ -1,39 +1,52 @@
-# Alex Xu — Data Analytics Portfolio
+# Alex Xu — Operations & Reporting Portfolio
 
 ## About Me
 
-Entry-level Data Analyst with prior experience in operations and business support roles. Recently upskilled through the BCG RISE 2.0 Business Data & Analytics program and the Vertical Institute Data Analytics Bootcamp, gaining hands-on experience in Python, SQL, Power BI, and Tableau. I enjoy working with data to uncover patterns, support decision-making, and build analytical workflows that are reproducible and clear.
+Operations and reporting professional with prior experience in time-critical operational environments, supported by data literacy and hands-on analytics training. I have worked across operations, coordination, and business support functions, and recently strengthened my analytical foundation through the BCG RISE 2.0 Business Data & Analytics programme and the Vertical Institute Data Analytics Bootcamp.
 
-This portfolio showcases selected projects demonstrating data cleaning, feature engineering, exploratory analysis, segmentation, insight generation, and reporting.
+I am comfortable working with structured data to support reporting, monitoring, and analysis needs, and I value clear, reproducible workflows that enable teams to work with consistent and reliable information. My interests lie in applying data skills to operational, reporting, and support contexts rather than pure analytical or modelling roles.
+
+This portfolio contains selected projects that demonstrate data preparation, feature engineering, segmentation, and reporting-ready outputs, reflecting how analytics can support operational and business functions.
+
+---
 
 ## Projects
 
 ### 1. Retailer Segmentation Using RFM (Python)
-Retailer-level transaction data was processed to engineer RFM (Recency, Frequency, Monetary) features and assign lifecycle-based behavioral segments. These segments can support downstream analytics such as churn modeling, CLV estimation, and revenue-at-risk analysis.
 
-**Key Skills:** Python, data cleaning, feature engineering, cohort segmentation, business insight generation  
+This project applies RFM (Recency, Frequency, Monetary) analysis to retailer-level transaction data to create structured segments that support operational reporting and downstream analytical use cases. The workflow focuses on data cleaning, aggregation, feature engineering, and rule-based segmentation, producing outputs suitable for reporting, monitoring, and further analysis by downstream teams.
+
+**Key Skills:** Python, data cleaning, feature engineering, segmentation, reporting-ready outputs  
 **Repository:** `retailer_segmentation_rfm/`  
-**Artifacts:** Jupyter Notebook + Sample Data + Documentation
+**Artifacts:** Jupyter Notebook, sample data, documentation
 
-More projects will be added as this portfolio expands.
+Additional projects may be added over time as I continue to apply data skills in operational and reporting contexts.
 
-## Technical Skills
+---
 
-- **Languages & Tools:** Python, SQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **BI & Visualization:** Power BI, Tableau
-- **Analytics:** Data Cleaning, Feature Engineering, EDA, Segmentation, Reporting
+## Technical & Functional Skills
 
-## Learning & Domain Focus
+- **Data & Tools:** Python, SQL  
+- **Libraries:** Pandas, NumPy  
+- **BI & Reporting:** Power BI, Tableau  
+- **Analytics Capabilities:** Data cleaning, feature engineering, segmentation, exploratory analysis, reporting support  
 
-Currently positioned as a generalist while exploring areas including:
+---
 
-- commercial and operational analytics
-- lifecycle and segmentation work
-- dashboarding and reporting
+## Focus Areas
 
-Open to roles in data analytics, business intelligence, operations analytics, and related areas.
+My current focus areas include:
+
+- operational and management reporting  
+- data preparation and validation  
+- segmentation and lifecycle analysis  
+- supporting planning and monitoring workflows  
+- analytics as a support function within operations and shared services  
+
+I am particularly interested in roles where data literacy complements operational, reporting, or coordination responsibilities.
+
+---
 
 ## Links
 
-LinkedIn: linkedin.com/in/alexxu83  
+LinkedIn: https://www.linkedin.com/in/alexxu83
