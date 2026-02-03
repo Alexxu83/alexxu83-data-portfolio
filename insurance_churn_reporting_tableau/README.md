@@ -72,9 +72,11 @@ The Tableau Public dashboard link is included within the project report PDF.
 ---
 
 ## File Structure
+```text
 insurance_churn_reporting_tableau/
 ├── README.md
 └── Insurance_Churn_Reporting_Tableau_Capstone.pdf
+```
 
 ---
 
