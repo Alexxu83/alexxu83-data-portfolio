@@ -72,7 +72,6 @@ The Tableau Public dashboard link is included within the project report PDF.
 ---
 
 ## File Structure
-```text
 insurance_churn_reporting_tableau/
 ├── README.md
 └── Insurance_Churn_Reporting_Tableau_Capstone.pdf
@@ -80,8 +79,8 @@ insurance_churn_reporting_tableau/
 ---
 
 ## How to Use
-	1.	Review the PDF report for project context, methodology, and visual outputs.
-	2.	Access the Tableau Public dashboard via the link provided in the report (optional).
+1.	Review the PDF report for project context, methodology, and visual outputs.
+2.	Access the Tableau Public dashboard via the link provided in the report (optional).
 
 ---
 
