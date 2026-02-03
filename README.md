@@ -8,7 +8,6 @@ I am comfortable working with structured data to support reporting, monitoring, 
 
 This portfolio contains selected projects that demonstrate data preparation, segmentation, and reporting-ready outputs, reflecting how analytics can support operational and business functions.
 
----
 
 ## Projects
 
@@ -20,7 +19,6 @@ Developed a retailer-level segmentation workflow using RFM (Recency, Frequency, 
 **Repository:** `retailer_segmentation_rfm/`  
 **Artifacts:** Jupyter Notebook, sample data, documentation
 
----
 
 ### 2. Insurance Customer Status & Segmentation Reporting (Tableau)
 
@@ -30,7 +28,6 @@ Built a reporting and segmentation dashboard using Tableau to monitor customer s
 **Repository:** `insurance_churn_reporting_tableau/`  
 **Artifacts:** Capstone report with Tableau Public dashboard link
 
----
 
 ## Technical & Functional Skills
 
@@ -39,7 +36,6 @@ Built a reporting and segmentation dashboard using Tableau to monitor customer s
 - **BI & Reporting:** Power BI, Tableau  
 - **Analytics Capabilities:** Data cleaning, feature engineering, segmentation, exploratory analysis, reporting support  
 
----
 
 ## Focus Areas
 
@@ -53,7 +49,6 @@ My current focus areas include:
 
 I am particularly interested in roles where data literacy complements operational, reporting, or coordination responsibilities.
 
----
 
 ## Links
 
