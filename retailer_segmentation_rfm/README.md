@@ -87,7 +87,7 @@ In the original capstone, segmentation was merged with account-level fields for 
 This repository focuses on RFM feature engineering and segmentation.
 
 ## Repository Structure
-
+```text
 bcg_retailer_churn_analysis/
 │
 ├── notebooks/
@@ -97,6 +97,7 @@ bcg_retailer_churn_analysis/
 │   └── transactions_sample.csv
 │
 └── README.md
+```
 
 ## Technical Stack
 
