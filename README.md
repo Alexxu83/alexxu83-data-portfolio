@@ -2,11 +2,11 @@
 
 ## About Me
 
-Operations and reporting professional with prior experience in time-critical operational environments, supported by data literacy and hands-on analytics training. I have worked across operations, coordination, and business support functions, and recently strengthened my analytical foundation through the BCG RISE 2.0 Business Data & Analytics programme and the Vertical Institute Data Analytics Bootcamp.
+Operations and reporting professional with experience in time-critical operational environments, supported by data literacy and hands-on analytics training. I have worked across operations, coordination, and business support functions, and recently strengthened my analytical foundation through the BCG RISE 2.0 Business Data & Analytics programme and the Vertical Institute Data Analytics Bootcamp.
 
 I am comfortable working with structured data to support reporting, monitoring, and analysis needs, and I value clear, reproducible workflows that enable teams to work with consistent and reliable information. My interests lie in applying data skills to operational, reporting, and support contexts rather than pure analytical or modelling roles.
 
-This portfolio contains selected projects that demonstrate data preparation, feature engineering, segmentation, and reporting-ready outputs, reflecting how analytics can support operational and business functions.
+This portfolio contains selected projects that demonstrate data preparation, segmentation, and reporting-ready outputs, reflecting how analytics can support operational and business functions.
 
 ---
 
@@ -14,13 +14,21 @@ This portfolio contains selected projects that demonstrate data preparation, fea
 
 ### 1. Retailer Segmentation Using RFM (Python)
 
-This project applies RFM (Recency, Frequency, Monetary) analysis to retailer-level transaction data to create structured segments that support operational reporting and downstream analytical use cases. The workflow focuses on data cleaning, aggregation, feature engineering, and rule-based segmentation, producing outputs suitable for reporting, monitoring, and further analysis by downstream teams.
+Developed a retailer-level segmentation workflow using RFM (Recency, Frequency, Monetary) analysis to group accounts by lifecycle maturity and value contribution. The project focuses on data cleaning, aggregation, feature engineering, and rule-based segmentation, producing outputs suitable for reporting, monitoring, and downstream analytical use cases.
 
 **Key Skills:** Python, data cleaning, feature engineering, segmentation, reporting-ready outputs  
 **Repository:** `retailer_segmentation_rfm/`  
 **Artifacts:** Jupyter Notebook, sample data, documentation
 
-Additional projects may be added over time as I continue to apply data skills in operational and reporting contexts.
+---
+
+### 2. Insurance Customer Status & Segmentation Reporting (Tableau)
+
+Built a reporting and segmentation dashboard using Tableau to monitor customer service status (active vs terminated) and key demographic and financial segments. The project emphasises data preparation, calculated fields, and visual communication of insights to support monitoring and high-level decision-making, rather than predictive modelling.
+
+**Key Skills:** Tableau, reporting design, segmentation, dashboarding  
+**Repository:** `insurance_churn_reporting_tableau/`  
+**Artifacts:** Capstone report with Tableau Public dashboard link
 
 ---
 
